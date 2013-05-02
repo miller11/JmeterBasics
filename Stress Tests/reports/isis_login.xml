@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="505" lt="501" ts="1367509812290" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=6E342CC7A1A20AA9E157DEF908876D67; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="247" lt="244" ts="1367509812549" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=353D48E97F5D9744F26729E899722AFD; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="49" lt="49" ts="1367509812804" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:50:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="30" lt="27" ts="1367509812832" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=4CA79528428AEF164D66D687AAF135E8; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="44" lt="44" ts="1367509812804" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:50:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="60" lt="60" ts="1367509812864" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:50:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="8" ts="1367509813097" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=F34F5BECE2B4D94EE6BC9C08DB0A81E0; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:13 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="40" lt="40" ts="1367509813107" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:50:13 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="3200" lt="3191" ts="1367509812865" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="45302">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=53DC89E713690BF76858028ED12F01FD; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:16 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7a973-TLPB2ViVFcCOEMblMXalivNjzDD5DxLZdTcRDEfdnaPpRhaFOTo</java.net.URL>
+</httpSample>
+<httpSample t="3997" lt="3991" ts="1367509812866" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="41697">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=498741D54A2B07BC0A98B339F9F42667; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:16 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7a971-VaKEhyaaFFA-ueF0hG2KxICaeqD0QoKPXVi24CsjR1n63QOTZct</java.net.URL>
+</httpSample>
+<httpSample t="4684" lt="4681" ts="1367509812934" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="41697">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=A037A3318E2A8AE87A7893240174FB22; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:17 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7a975-P-fY2R8A6IRCR87rN2BiDdt3BeC-1Fa_ztxlJBl9NyE7WpFa5ml</java.net.URL>
+</httpSample>
+<httpSample t="5067" lt="5065" ts="1367509813155" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="41697">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=24601C9D562E4A046B849592FA7B5E1A; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:50:17 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7a977-1SPLnUScpM4jt6ClsiJPXoM53-sVZtmCpGTTz4ScFltBrP4x5Tr</java.net.URL>
+</httpSample>
+
+<httpSample t="95" lt="93" ts="1367509987737" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=DD77911F62F48197E9216BCDC5393070; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:53:07 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="41" lt="36" ts="1367509987833" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+  <httpSample t="36" lt="36" ts="1367509987833" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acd7-NgQ0PbwPrrKEf7mVRkSryUsxswZRIHkLQXAmz1qZzYAaaE-_bgK
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:53:07 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="4" lt="0" ts="1367509987870" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acd7-NgQ0PbwPrrKEf7mVRkSryUsxswZRIHkLQXAmz1qZzYAaaE-_bgK" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acd7-NgQ0PbwPrrKEf7mVRkSryUsxswZRIHkLQXAmz1qZzYAaaE-_bgK</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acd7-NgQ0PbwPrrKEf7mVRkSryUsxswZRIHkLQXAmz1qZzYAaaE-_bgK</java.net.URL>
+</httpSample>
+<httpSample t="37" lt="34" ts="1367509988258" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=E78DF1179EDB0754CD198221F3D2C3BB; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:53:07 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="137" lt="135" ts="1367509988296" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+  <httpSample t="135" lt="135" ts="1367509988296" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace3-rtRb4liWTQLEeYjQdOJkQp-oFWv2b0ELGKlovuSNozqwSfJUzMk
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:53:07 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="1" lt="0" ts="1367509988432" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace3-rtRb4liWTQLEeYjQdOJkQp-oFWv2b0ELGKlovuSNozqwSfJUzMk" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace3-rtRb4liWTQLEeYjQdOJkQp-oFWv2b0ELGKlovuSNozqwSfJUzMk</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace3-rtRb4liWTQLEeYjQdOJkQp-oFWv2b0ELGKlovuSNozqwSfJUzMk</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="7" ts="1367509988512" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=C02A30776A4BC77C98638189E274FEA0; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:53:07 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="86" lt="79" ts="1367509988521" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+  <httpSample t="79" lt="79" ts="1367509988521" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace5-Gqemlhv7-og9ddgDSOwcTjuvKyu-1M_qsEoE6SW3SDX1BfNZwXn
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:53:07 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="7" lt="0" ts="1367509988600" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace5-Gqemlhv7-og9ddgDSOwcTjuvKyu-1M_qsEoE6SW3SDX1BfNZwXn" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace5-Gqemlhv7-og9ddgDSOwcTjuvKyu-1M_qsEoE6SW3SDX1BfNZwXn</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ace5-Gqemlhv7-og9ddgDSOwcTjuvKyu-1M_qsEoE6SW3SDX1BfNZwXn</java.net.URL>
+</httpSample>
+<httpSample t="1418" lt="1411" ts="1367509987997" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=A1919FA1E0EC3F0B2740C1BAC2993446; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:53:07 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="45" lt="37" ts="1367509989416" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+  <httpSample t="37" lt="37" ts="1367509989416" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acef-g-0sPXOeoWl21ZwQ21ro5nj7SNIEAdmDHcExUFPlPMUimJX4q4C
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:53:08 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="7" lt="0" ts="1367509989454" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acef-g-0sPXOeoWl21ZwQ21ro5nj7SNIEAdmDHcExUFPlPMUimJX4q4C" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acef-g-0sPXOeoWl21ZwQ21ro5nj7SNIEAdmDHcExUFPlPMUimJX4q4C</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7acef-g-0sPXOeoWl21ZwQ21ro5nj7SNIEAdmDHcExUFPlPMUimJX4q4C</java.net.URL>
+</httpSample>
+
+<httpSample t="55" lt="53" ts="1367510046722" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=2FB96325FE6A344A134E3EE1797FE1B9; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:05 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="414" lt="410" ts="1367510046459" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=4D1B786A9AD06BEB18682945ECBA82D7; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:06 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="112" lt="110" ts="1367510046778" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+  <httpSample t="110" lt="110" ts="1367510046778" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae23-BZ9o807mZ1dZnrMqAwHRqKmpV_JdUJkz9ojhi0lZjUz9CSeYQLx
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:06 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="2" lt="0" ts="1367510046888" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae23-BZ9o807mZ1dZnrMqAwHRqKmpV_JdUJkz9ojhi0lZjUz9CSeYQLx" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae23-BZ9o807mZ1dZnrMqAwHRqKmpV_JdUJkz9ojhi0lZjUz9CSeYQLx</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae23-BZ9o807mZ1dZnrMqAwHRqKmpV_JdUJkz9ojhi0lZjUz9CSeYQLx</java.net.URL>
+</httpSample>
+<httpSample t="44" lt="43" ts="1367510046875" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+  <httpSample t="43" lt="43" ts="1367510046875" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae25-nZtaaIE-w6tVrbrDhbrN8nZEZp1sj7tBleTXs87MVGQHo1ht2tG
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:06 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="1" lt="0" ts="1367510046918" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae25-nZtaaIE-w6tVrbrDhbrN8nZEZp1sj7tBleTXs87MVGQHo1ht2tG" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae25-nZtaaIE-w6tVrbrDhbrN8nZEZp1sj7tBleTXs87MVGQHo1ht2tG</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae25-nZtaaIE-w6tVrbrDhbrN8nZEZp1sj7tBleTXs87MVGQHo1ht2tG</java.net.URL>
+</httpSample>
+<httpSample t="12" lt="10" ts="1367510046980" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=8A03CA8DA4CBF680C17F746E327249B9; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:06 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="85" lt="76" ts="1367510046993" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+  <httpSample t="76" lt="76" ts="1367510046993" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae27-tpwwJyPW4x-vPM39PWOgQea9TSw7VgAulbU-VAyy2SYuD4Cupgh
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:06 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="8" lt="0" ts="1367510047070" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae27-tpwwJyPW4x-vPM39PWOgQea9TSw7VgAulbU-VAyy2SYuD4Cupgh" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae27-tpwwJyPW4x-vPM39PWOgQea9TSw7VgAulbU-VAyy2SYuD4Cupgh</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae27-tpwwJyPW4x-vPM39PWOgQea9TSw7VgAulbU-VAyy2SYuD4Cupgh</java.net.URL>
+</httpSample>
+<httpSample t="5" lt="5" ts="1367510047234" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=A6DC93CD71CE85F4175D87CC00AE4E0D; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:06 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="82" lt="75" ts="1367510047240" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+  <httpSample t="75" lt="75" ts="1367510047240" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae29-4W3iHqS3Jimkou0QiNDcL86SbNTRn_8CVYizGNOh7aWRn6XKEW-
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:06 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="7" lt="0" ts="1367510047315" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae29-4W3iHqS3Jimkou0QiNDcL86SbNTRn_8CVYizGNOh7aWRn6XKEW-" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae29-4W3iHqS3Jimkou0QiNDcL86SbNTRn_8CVYizGNOh7aWRn6XKEW-</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7ae29-4W3iHqS3Jimkou0QiNDcL86SbNTRn_8CVYizGNOh7aWRn6XKEW-</java.net.URL>
+</httpSample>
+
+<httpSample t="30" lt="28" ts="1367510088084" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=6843B17777824AD63FDCE9FE72869E81; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:47 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="138" lt="135" ts="1367510088115" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+  <httpSample t="135" lt="135" ts="1367510088115" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef1-OOjvkt_cy68oE8T8OnJS0N_kQ3aZuGeP15aimY_-tvPnDsa15I1
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:47 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="3" lt="0" ts="1367510088250" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef1-OOjvkt_cy68oE8T8OnJS0N_kQ3aZuGeP15aimY_-tvPnDsa15I1" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef1-OOjvkt_cy68oE8T8OnJS0N_kQ3aZuGeP15aimY_-tvPnDsa15I1</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef1-OOjvkt_cy68oE8T8OnJS0N_kQ3aZuGeP15aimY_-tvPnDsa15I1</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="7" ts="1367510088342" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=28C4F4BC56895154D872764ADBEAB902; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:47 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="147" lt="138" ts="1367510088351" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+  <httpSample t="138" lt="138" ts="1367510088351" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef3-7nkxJfIwci99cQtP-Y-DSBu_UoD14Cbv0d-c6WXCTO1lcNHTC6F
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:47 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="9" lt="0" ts="1367510088489" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef3-7nkxJfIwci99cQtP-Y-DSBu_UoD14Cbv0d-c6WXCTO1lcNHTC6F" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef3-7nkxJfIwci99cQtP-Y-DSBu_UoD14Cbv0d-c6WXCTO1lcNHTC6F</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef3-7nkxJfIwci99cQtP-Y-DSBu_UoD14Cbv0d-c6WXCTO1lcNHTC6F</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="7" ts="1367510088601" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=D6FA55EF6890173C0024FE50D0CAEFF2; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:47 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="153" lt="143" ts="1367510088610" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+  <httpSample t="143" lt="143" ts="1367510088610" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef5-JqqRY0yCaD7Ph6Rf-FKel655R7HxLiHmxqUHZHA30twmG2Qa2uV
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:47 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="10" lt="0" ts="1367510088753" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef5-JqqRY0yCaD7Ph6Rf-FKel655R7HxLiHmxqUHZHA30twmG2Qa2uV" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef5-JqqRY0yCaD7Ph6Rf-FKel655R7HxLiHmxqUHZHA30twmG2Qa2uV</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef5-JqqRY0yCaD7Ph6Rf-FKel655R7HxLiHmxqUHZHA30twmG2Qa2uV</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="7" ts="1367510088856" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=D7D5B5EA0C7D2B6E4DEA9D471FC58D5F; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:54:48 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="144" lt="136" ts="1367510088866" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+  <httpSample t="136" lt="136" ts="1367510088866" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef7-YP--B9TW0AEsmt9wm-q8ROt7Lfyp0LU5Vo_FTdUK9635R2fO0it
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:54:48 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="8" lt="0" ts="1367510089002" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef7-YP--B9TW0AEsmt9wm-q8ROt7Lfyp0LU5Vo_FTdUK9635R2fO0it" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef7-YP--B9TW0AEsmt9wm-q8ROt7Lfyp0LU5Vo_FTdUK9635R2fO0it</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7aef7-YP--B9TW0AEsmt9wm-q8ROt7Lfyp0LU5Vo_FTdUK9635R2fO0it</java.net.URL>
+</httpSample>
+
+<httpSample t="100" lt="99" ts="1367510239131" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=17545368C7369175D7A3FDB9858AA7A4; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:57:19 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="38" lt="36" ts="1367510239232" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+  <httpSample t="36" lt="36" ts="1367510239232" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d1-i9zdh-rWlZ7k9BOjq4dDuYcDaVfrDxy7hYASHR862V_vIijoBWL
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:57:19 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="2" lt="0" ts="1367510239268" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d1-i9zdh-rWlZ7k9BOjq4dDuYcDaVfrDxy7hYASHR862V_vIijoBWL" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-1" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d1-i9zdh-rWlZ7k9BOjq4dDuYcDaVfrDxy7hYASHR862V_vIijoBWL</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d1-i9zdh-rWlZ7k9BOjq4dDuYcDaVfrDxy7hYASHR862V_vIijoBWL</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="7" ts="1367510239394" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=112D82A5C04BDE2F65E6CE0BED4CFE6B; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:57:19 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="27" lt="24" ts="1367510239907" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=08F9C144060E23B5CC8A457BB819FCB8; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:57:19 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="72" lt="71" ts="1367510239936" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+  <httpSample t="71" lt="71" ts="1367510239936" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d5-Ssy6FDrlSi_Z2yAVVigZpVufvuLX6nGbmolyj2v0NNmCpLNl5RG
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:57:19 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="1" lt="0" ts="1367510240007" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d5-Ssy6FDrlSi_Z2yAVVigZpVufvuLX6nGbmolyj2v0NNmCpLNl5RG" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-4" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d5-Ssy6FDrlSi_Z2yAVVigZpVufvuLX6nGbmolyj2v0NNmCpLNl5RG</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1d5-Ssy6FDrlSi_Z2yAVVigZpVufvuLX6nGbmolyj2v0NNmCpLNl5RG</java.net.URL>
+</httpSample>
+<httpSample t="1306" lt="1298" ts="1367510239403" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+  <httpSample t="1298" lt="1298" ts="1367510239403" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1df-Szs-5ujDWSGoqarWK83avnw1Vhc2SZ-Fv8j9aLdf_SAVHeG9YCV
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:57:20 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="7" lt="0" ts="1367510240702" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1df-Szs-5ujDWSGoqarWK83avnw1Vhc2SZ-Fv8j9aLdf_SAVHeG9YCV" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-2" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1df-Szs-5ujDWSGoqarWK83avnw1Vhc2SZ-Fv8j9aLdf_SAVHeG9YCV</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1df-Szs-5ujDWSGoqarWK83avnw1Vhc2SZ-Fv8j9aLdf_SAVHeG9YCV</java.net.URL>
+</httpSample>
+<httpSample t="1248" lt="1243" ts="1367510239648" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="8663">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=42CC0EE44E59FF8218C523020025E0D7; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:57:20 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="56" lt="55" ts="1367510240897" s="false" lb="Actually Login" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+  <httpSample t="55" lt="55" ts="1367510240897" s="true" lb="https://login.uiowa.edu/uip/login.page" rc="302" rm="Moved Temporarily" tn="" dt="text" by="419">
+    <responseHeader class="java.lang.String">HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Location: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1e1-7ays2_mEvteGhsKJLB52Um7ExQSY3h1cUfUA-kZNT5IoTqa0Fuk
+Content-Type: text/html
+Content-Length: 0
+Date: Thu, 02 May 2013 15:57:20 GMT
+</responseHeader>
+    <requestHeader class="java.lang.String">Content-Length: 154
+Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+    <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+  </httpSample>
+  <httpSample t="1" lt="0" ts="1367510240952" s="false" lb="Error: https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1e1-7ays2_mEvteGhsKJLB52Um7ExQSY3h1cUfUA-kZNT5IoTqa0Fuk" rc="Non HTTP response code: javax.net.ssl.SSLException" rm="Non HTTP response message: Unrecognized SSL message, plaintext connection?" tn="ICON Grade Upload 1-3" dt="text" by="1933">
+    <responseHeader class="java.lang.String"></responseHeader>
+    <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+    <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1e1-7ays2_mEvteGhsKJLB52Um7ExQSY3h1cUfUA-kZNT5IoTqa0Fuk</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=https://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b1e1-7ays2_mEvteGhsKJLB52Um7ExQSY3h1cUfUA-kZNT5IoTqa0Fuk</java.net.URL>
+</httpSample>
+
+<httpSample t="51" lt="49" ts="1367510289531" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=CF8512259DFB1679484A6B6589E003C1; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:08 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="135" lt="135" ts="1367510289584" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:58:09 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="7" ts="1367510289793" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=3503A8B00A25457B183DE88E772701F6; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:09 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="172" lt="172" ts="1367510289803" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:58:09 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="9" lt="6" ts="1367510290050" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=9B266DB2EBD17A4F19FA24C1C0FFAB3F; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:09 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="176" lt="176" ts="1367510290063" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:58:09 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="11" lt="8" ts="1367510290309" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=770B49ED083C914F2F3BFAEC3235B337; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:09 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="134" lt="134" ts="1367510290321" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 15:58:09 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="1996" lt="1996" ts="1367510289725" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="40723">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=5B27D3E14053F82462E3D323FBDA28C5; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b2f9-pwiSPS7AZmx1IHB_GXDgi8MpVcHE3thsQkPB_UXx40jiddUTNHq</java.net.URL>
+</httpSample>
+<httpSample t="2423" lt="2422" ts="1367510289982" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="40723">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=8DE85C1216FC7468120D929D3E2DBB6D; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:11 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b2fd-TUp9e63QqZNMPJp72aXP-SQQqHyYE9xhhqDcgAwPVwXR4ajyhNf</java.net.URL>
+</httpSample>
+<httpSample t="2648" lt="2648" ts="1367510290245" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="40723">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=E2320E9053F402DB6EE3D97C0E666CDE; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:12 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b303-8RyeqfoO6HB8zK9dBx3yKXZy-wK5ACI8TWg9wukRW1nmBHgZhrM</java.net.URL>
+</httpSample>
+<httpSample t="3271" lt="3270" ts="1367510290461" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="40723">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=AE515CDDDDD62DA5062ED261F287E6CC; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 15:58:12 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b307-8QqKG9Wqy5kJWLOiKIM930XoBjEz2xH_nx9UPWrX7z1SZrHPOCO</java.net.URL>
+</httpSample>
+
+<httpSample t="109" lt="107" ts="1367510462771" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=655AC87ED34F6E89E58D7AB6EA7A5603; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:01 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="35" lt="35" ts="1367510462881" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 16:01:01 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="7" ts="1367510463031" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=53A4D1AA661C8FCAC4913B4A770CD6B3; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:02 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="31" lt="31" ts="1367510463040" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 16:01:02 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="8" lt="7" ts="1367510463287" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=62264E7E3D4477A1A294DFEF1BA7CB7B; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:02 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="234" lt="234" ts="1367510463078" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-2" dt="text" by="44327">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=0E1537C166C41CE078BCD6FB52A1DDD1; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:03 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b665-9_aCDkXW2AS93SuRxR9AGRQBZXCeJOuTeajaTn7o2TyqPS85bRb</java.net.URL>
+</httpSample>
+<httpSample t="69" lt="69" ts="1367510463296" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 16:01:02 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="7" lt="6" ts="1367510463542" s="true" lb="Navigate To Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="8660">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=F57B8EA7B29BE5FA685D40D71026ADEE; Path=/uip
+Set-Cookie: UIP_TEST=test_value; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:02 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page</java.net.URL>
+</httpSample>
+<httpSample t="77" lt="77" ts="1367510463550" s="true" lb="Actually Login" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="606">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: UIP_TEST=test_value; Path=/
+Set-Cookie: UIP_IDENTITY_CHECKSUM=&quot;t2KIq5+FS8LBHPh8At4awpbc3VQ=&quot;; Version=1; Domain=.uiowa.edu; Path=/
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 313
+Date: Thu, 02 May 2013 16:01:02 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Content-Length: 153
+Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+</requestHeader>
+  <java.net.URL>https://login.uiowa.edu/uip/login.page</java.net.URL>
+</httpSample>
+<httpSample t="1215" lt="1214" ts="1367510462923" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-1" dt="text" by="41697">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=61E1EC45BAE6BABDCEA0FF7309264E20; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:03 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b663-cSdfB9N1ycKhPIbrbCNwwVZpyMkPDmBKJeilspwyAx34DX3JkL7</java.net.URL>
+</httpSample>
+<httpSample t="1559" lt="1558" ts="1367510463371" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-3" dt="text" by="40723">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=D4B6B7E0C6885D75A282581FC5019ADE; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:04 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b667-0IMboR08Ow2ZMOKZ12V720XH5WD4RZhISay2dyv_Bjp3nku-PHo</java.net.URL>
+</httpSample>
+<httpSample t="2126" lt="2126" ts="1367510463633" s="true" lb="Local Host Fix" rc="200" rm="OK" tn="ICON Grade Upload 1-4" dt="text" by="40723">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=B07E21BDA8DC965A2E44845946D5994E; Path=/maui
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-store, no-cache, must-revalidate, max-stale=0
+Cache-Control: post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 May 2013 16:01:04 GMT
+</responseHeader>
+  <requestHeader class="java.lang.String">Referer: https://login.uiowa.edu/uip/login.page?service=http://localhost:8081/maui/home/dashboard.page
+Connection: keep-alive
+</requestHeader>
+  <java.net.URL>http://localhost:8081/maui/home/dashboard.page?uip_ticket=SGT-7b66b-Hr__9UGfifiGVWdf19fzVnR8Qi7E3oe9sABnfoJ1AH7sMBtG0I_</java.net.URL>
+</httpSample>
+
+</testResults>

@@ -1,0 +1,3 @@
+The ApacheJMeter_core.jar file must be given to anyone who wishes to use the ISIS test suite because of some modifications I have made. Probably easier
+to just give them the whole deal so they don't have to worry about conflicting JMeter versions. I have looked into turning my additions into a plugin you
+can just add, but it seems easier said than done...
